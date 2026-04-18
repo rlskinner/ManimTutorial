@@ -1,3 +1,11 @@
 Manim Tutorial Notes
 
+Installation:
+    - Git initialize repo MyProject
+    - cd ..\MyProject
+    - uv init MyProject
+    - cd MyProject
+    - uv add manim
+
+    Python interpreter MUST be set to MyProject/manim/Scripts/python.exe for Pylance to work.
 
